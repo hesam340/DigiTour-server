@@ -1,0 +1,19 @@
+[
+  {
+    "id": "d8216848-8dc2-4faa-9279-992d564302e8",
+    "mobile": "09127470989",
+    "otpExpires": 1758122471759,
+    "otpCode": "669454",
+    "email": "hesamkhaki340@gmail.com",
+    "firstName": "حسام",
+    "lastName": "خاکی",
+    "nationalCode": "0370856651",
+    "birthDate": "1993-05-16",
+    "gender": "male",
+    "payment": {
+      "shaba_code": "100002548515526841668655",
+      "debitCard_code": "5892101253502609",
+      "accountIdentifier": "13654254878"
+    }
+  }
+]
